@@ -57,13 +57,13 @@ collected by the United States government.
 | File | Description | Used |
 |---|---|---|
 | `training_set_features.csv` | 35 features for 26,707 respondents | ✅ Yes |
-| `training_set_labels.csv` | Target variables | ✅ Yes — seasonal_vaccine only |
-| `test_set_features.csv` | Unseen respondent features | ❌ No — competition only |
-| `submission_format.csv` | Competition submission template | ❌ No — not competing |
+| `training_set_labels.csv` | Target variables | ✅ Yes - seasonal_vaccine only |
+| `test_set_features.csv` | Unseen respondent features | ❌ No - competition only |
+| `submission_format.csv` | Competition submission template | ❌ No - not competing |
 
 **Target Variable:** `seasonal_vaccine` (binary: 0 = not vaccinated, 1 = vaccinated)
 
-**Class Balance:** 53% not vaccinated / 47% vaccinated — balanced dataset
+**Class Balance:** 53% not vaccinated / 47% vaccinated - balanced dataset
 
 
 
@@ -107,7 +107,9 @@ Run the notebooks in the following order:
 | Order | Notebook | Purpose | Output |
 
 | 1 | [01_Data_cleaning.ipynb](Notebooks/01_Data_cleaning.ipynb) | Business understanding, data understanding, duplicate removal, missing values visualization | `cleaned_data.csv` |
+
 | 2 | [02_Analysis.ipynb](Notebooks/02_Analysis.ipynb) | EDA, feature distributions, outlier detection, feature vs target analysis, correlation analysis, feature selection | Visualizations and feature selection decisions |
+
 | 3 | [03_Final_notebook.ipynb](Notebooks/03_Final_notebook.ipynb) | Complete ML pipeline, modeling, evaluation, recommendations | `processed_data.csv`, trained models, recommendations |
 
 
