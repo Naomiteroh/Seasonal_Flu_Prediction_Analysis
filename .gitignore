@@ -1,1 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.pyc
+
+# Jupyter Notebook
 .ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+env/
+.env/
+
+# Data - raw data should not be pushed if large
+# Uncomment below if your CSV files are too large for GitHub
+# Data/Raw_data/*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Distribution
+dist/
+build/
+*.egg-info/
