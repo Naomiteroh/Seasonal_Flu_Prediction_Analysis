@@ -201,6 +201,9 @@ Primary metric: ROC AUC Score
   not just worry
 
 
+## **Non Technical Presentation**
+The non-technical presentation can be found in the `Presentation/` folder.
+
 
 ##  Setup Instructions
 
