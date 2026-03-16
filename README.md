@@ -202,7 +202,8 @@ Primary metric: ROC AUC Score
 
 
 ## **Non Technical Presentation**
-The non-technical presentation can be found in the `Presentation/` folder.
+The non-technical presentation can be found in the Presentation folder.
+Link: https://github.com/Naomiteroh/Seasonal_Flu_Prediction_Analysis/blob/main/Presentation/Seasonal_flu_prediction_analysis_presentation.pdf
 
 
 ##  Setup Instructions
