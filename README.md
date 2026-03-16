@@ -43,7 +43,7 @@ This project answers:
 
 **Key Stakeholders:**
 | Stakeholder | Need |
-|---|---|
+
 | County Director of Health (CDoH) | Identify which communities to target for outreach |
 | CEO, County Referral Hospital | Identify which patients need clinical encouragement |
 
@@ -54,8 +54,10 @@ This project answers:
 The dataset comes from the **National 2009 H1N1 Flu Survey** 
 collected by the United States government.
 
+Link: [DrivenData — Flu Shot Learning](https://www.drivendata.org/competitions/66/flu-shot-learning/)
+
 | File | Description | Used |
-|---|---|---|
+
 | `training_set_features.csv` | 35 features for 26,707 respondents |  Yes |
 | `training_set_labels.csv` | Target variables |  Yes - seasonal_vaccine only |
 | `test_set_features.csv` | Unseen respondent features |  No - competition only |
