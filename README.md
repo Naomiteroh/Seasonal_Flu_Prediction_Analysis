@@ -169,12 +169,12 @@ Primary metric: ROC AUC Score
 
 #### Beyond Metrics Evaluation
 | Factor | Random Forest | Logistic Regression |
-|---|---|---|
-| ROC AUC | 0.8518 ✅ | 0.8506 |
-| Runtime | Slow ❌ | Fast ✅ |
-| Explainability | Low ❌ | High ✅ |
-| Parsimony | Low ❌ | High ✅ |
-| Ease of Deployment | Complex ❌ | Simple ✅ |
+
+| ROC AUC | 0.8518  | 0.8506 |
+| Runtime | Slow  | Fast  |
+| Explainability | Low  | High  |
+| Parsimony | Low  | High  |
+| Ease of Deployment | Complex  | Simple  |
 
 The ROC AUC difference is only 0.0012 — practically negligible.
 In a resource constrained Kenyan clinical setting, Logistic 
