@@ -56,10 +56,10 @@ collected by the United States government.
 
 | File | Description | Used |
 |---|---|---|
-| `training_set_features.csv` | 35 features for 26,707 respondents | ✅ Yes |
-| `training_set_labels.csv` | Target variables | ✅ Yes - seasonal_vaccine only |
-| `test_set_features.csv` | Unseen respondent features | ❌ No - competition only |
-| `submission_format.csv` | Competition submission template | ❌ No - not competing |
+| `training_set_features.csv` | 35 features for 26,707 respondents |  Yes |
+| `training_set_labels.csv` | Target variables |  Yes - seasonal_vaccine only |
+| `test_set_features.csv` | Unseen respondent features |  No - competition only |
+| `submission_format.csv` | Competition submission template |  No - not competing |
 
 **Target Variable:** `seasonal_vaccine` (binary: 0 = not vaccinated, 1 = vaccinated)
 
