@@ -515,7 +515,7 @@ highly competitive and more deployable alternative.
 
 Beyond prediction, the analysis highlights that **opinion 
 features, doctor recommendations and healthcare access** 
-are the strongest drivers of vaccination behavior — all 
+are the strongest drivers of vaccination behavior all 
 actionable targets for public health intervention.
 
 ---
@@ -523,5 +523,5 @@ actionable targets for public health intervention.
 ## Author
 
 **Naomi Opiyo**
-Flatiron School Data Science Program
+MORINGA School Data Science Program
 Phase 3 Project — 2026
