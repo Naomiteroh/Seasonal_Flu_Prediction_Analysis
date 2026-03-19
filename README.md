@@ -9,7 +9,7 @@
 
 ## Overview
 
-Kenya experiences two flu seasons annually — March to May 
+Kenya experiences two flu seasons annually: March to May 
 and October to December. Despite the availability of seasonal 
 flu vaccines, vaccination rates remain consistently low 
 particularly among younger and lower income populations. 
